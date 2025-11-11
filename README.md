@@ -1,4 +1,4 @@
-"""# Create Your Own Image Classifier - TensorFlow
+# Create Your Own Image Classifier - TensorFlow
 
 A deep learning project that demonstrates how to build, train, and deploy your own image classifier using TensorFlow and TensorFlow Hub. This project focuses on classifying flowers from the Oxford Flowers 102 dataset. It includes both model training and a user-friendly command-line interface for predicting new images.
 
