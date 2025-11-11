@@ -111,4 +111,4 @@ python predict.py ./test_images/wild_pansy.jpg models/flower_classifier.h5 --top
 
 ## License
 This project is licensed under the MIT License.
-"""
+
